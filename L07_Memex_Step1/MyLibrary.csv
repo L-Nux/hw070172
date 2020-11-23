@@ -1,0 +1,89 @@
+citeKey	type	author	title	date
+mckinney_python_nodate	article	McKinney, Wes	Python for {Data {Analysis	NA
+grant_data_2019	book	Grant, Robert	Data visualization: charts, maps, and interactive graphics	NA
+reitz_hitchhikers_nodate	article	Reitz, Kenneth and Schlusser, Tanya	The {Hitchhiker’s {Guide {To {Python	NA
+ridge_crowdsourcing_nodate	article	Ridge, Mia	Crowdsourcing {Our {Cultural {Heritage	NA
+van_hyning_harnessing_2019	article	Van Hyning, Victoria	Harnessing crowdsourcing for scholarly and {GLAM purposes	NA
+turchin_quantitative_2018	article	Turchin, Peter and Currie, Thomas E. and Whitehouse, Harvey and François, Pieter and Feeney, Kevin and Mullins, Daniel and Hoyer, Daniel and Collins, Christina and Grohmann, Stephanie and Savage, Patrick and Mendel-Gleason, Gavin and Turner, Edward and Dupeyron, Agathe and Cioni, Enrico and Reddish, Jenny and Levine, Jill and Jordan, Greine and Brandl, Eva and Williams, Alice and Cesaretti, Rudolf and Krueger, Marta and Ceccarelli, Alessandro and Figliulo-Rosswurm, Joe and Tuan, Po-Ju and Peregrine, Peter and Marciniak, Arkadiusz and Preiser-Kapeller, Johannes and Kradin, Nikolay and Korotayev, Andrey and Palmisano, Alessio and Baker, David and Bidmead, Julye and Bol, Peter and Christian, David and Cook, Connie and Covey, Alan and Feinman, Gary and Júlíusson, Árni Daníel and Kristinsson, Axel and Miksic, John and Mostern, Ruth and Petrie, Cameron and Rudiak-Gould, Peter and ter Haar, Barend and Wallace, Vesna and Mair, Victor and Xie, Liye and Baines, John and Bridges, Elizabeth and Manning, Joseph and Lockhart, Bruce and Bogaard, Amy and Spencer, Charles	Quantitative historical analysis uncovers a single dimension of complexity that structures global variation in human social organization	NA
+abbott_venice_nodate	article	Abbott, Alison	{VENICE {GETS {A {TIME {MACHINE	NA
+barranha_derivative_2018	article	Barranha, Helena	Derivative {Narratives: {The {Multiple {Lives of a {Masterpiece on the {Internet	NA
+kidd_new_2019	article	Kidd, Jenny	\textit{{With {New {Eyes {I {See : embodiment, empathy and silence in digital heritage interpretation	NA
+stokes_digital_2015	article	Stokes, Peter A.	Digital {Approaches to {Paleography and {Book {History: {Some {Challenges {Present and {Future	NA
+drucker_is_2013	article	Drucker, Johanna	Is {There a “{Digital” {Art {History?	NA
+windhager_visualization_2019	article	Windhager, Florian and Federico, Paolo and Schreder, Gunther and Glinka, Katrin and Dork, Marian and Miksch, Silvia and Mayr, Eva	Visualization of {Cultural {Heritage {Collection {Data: {State of the {Art and {Future {Challenges	NA
+kraker_case_2011	article	Kraker, Peter and Leony, Derick and Reinhardt, Wolfgang and Gü, N.A. and Beham, nter	The case for an open science in technology enhanced learning	NA
+masuzzo_you_2017	techreport	Masuzzo, Paola and Martens, Lennart	Do you speak open science? {Resources and tips to learn the language	NA
+mikolov_distributed_2013	article	Mikolov, Tomas and Sutskever, Ilya and Chen, Kai and Corrado, Greg and Dean, Jeffrey	Distributed {Representations of {Words and {Phrases and their {Compositionality	NA
+bojanowski_enriching_2017	article	Bojanowski, Piotr and Grave, Edouard and Joulin, Armand and Mikolov, Tomas	Enriching {Word {Vectors with {Subword {Information	NA
+hermann_teaching_2015	article	Hermann, Karl Moritz and Kočiský, Tomáš and Grefenstette, Edward and Espeholt, Lasse and Kay, Will and Suleyman, Mustafa and Blunsom, Phil	Teaching {Machines to {Read and {Comprehend	NA
+bahdanau_neural_2016	article	Bahdanau, Dzmitry and Cho, Kyunghyun and Bengio, Yoshua	Neural {Machine {Translation by {Jointly {Learning to {Align and {Translate	NA
+vaswani_attention_2017	article	Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N. and Kaiser, Lukasz and Polosukhin, Illia	Attention {Is {All {You {Need	NA
+wang_glue_2019	article	Wang, Alex and Singh, Amanpreet and Michael, Julian and Hill, Felix and Levy, Omer and Bowman, Samuel R.	{GLUE: {A {Multi-{Task {Benchmark and {Analysis {Platform for {Natural {Language {Understanding	NA
+devlin_bert_2019	article	Devlin, Jacob and Chang, Ming-Wei and Lee, Kenton and Toutanova, Kristina	{BERT: {Pre-training of {Deep {Bidirectional {Transformers for {Language {Understanding	NA
+ribeiro_why_2016	article	Ribeiro, Marco Tulio and Singh, Sameer and Guestrin, Carlos	"{Why {Should {I {Trust {You?": {Explaining the {Predictions of {Any {Classifier	NA
+bender_climbing_2020	inproceedings	Bender, Emily M. and Koller, Alexander	Climbing towards {NLU: {On {Meaning {Form and {Understanding in the {Age of {Data	NA
+bolukbasi_man_2016	article	Bolukbasi, Tolga and Chang, Kai-Wei and Zou, James and Saligrama, Venkatesh and Kalai, Adam	Man is to {Computer {Programmer as {Woman is to {Homemaker? {Debiasing {Word {Embeddings	NA
+sap_social_2020	article	Sap, Maarten and Gabriel, Saadia and Qin, Lianhui and Jurafsky, Dan and Smith, Noah A. and Choi, Yejin	Social {Bias {Frames: {Reasoning about {Social and {Power {Implications of {Language	NA
+gold_debates_2019	book	NA	Debates in the {Digital {Humanities 2019	NA
+svensson_three_2020	article	Svensson, Patrik	Three {Premises of {Big {Digital {Humanities	NA
+bhattacharyya_deep_2020	book	NA	Deep learning	NA
+mnih_scalable_nodate	article	Mnih, Andriy and Hinton, Geoffrey E	A {Scalable {Hierarchical {Distributed {Language {Model	NA
+pennington_glove_2014	inproceedings	Pennington, Jeffrey and Socher, Richard and Manning, Christopher	Glove: {Global {Vectors for {Word {Representation	NA
+conneau_supervised_2017	inproceedings	Conneau, Alexis and Kiela, Douwe and Schwenk, Holger and Barrault, Loïc and Bordes, Antoine	Supervised {Learning of {Universal {Sentence {Representations from {Natural {Language {Inference {Data	NA
+sebastiani_machine_2002	article	Sebastiani, Fabrizio	Machine learning in automated text categorization	NA
+ekstein_text_2019	book	NA	Text, {Speech and {Dialogue: 22nd {International {Conference {TSD 2019, {Ljubljana {Slovenia {September 11–13, 2019, {Proceedings	NA
+davis_universal_nodate	article	Davis, Martin	The {Universal {Computer	NA
+vaswani_attention_2017-1	article	Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N. and Kaiser, Lukasz and Polosukhin, Illia	Attention {Is {All {You {Need	NA
+burgoyne_comparative_2007	inproceedings	Burgoyne, John Ashley and Pugin, Laurent and Eustace, Greg and Fujinaga, Ichiro	A {Comparative {Survey of {Image {Binarisation {Algorithms for {Optical {Recognition on {Degraded {Musical {Sources	NA
+evans_computational_2014	article	Evans, Michael S.	A {Computational {Approach to {Qualitative {Analysis in {Large {Textual {Datasets	NA
+baroni_new_2006	article	Baroni, Marco and Bernardini, Silvia	A {New {Approach to the {Study of {Translationese: {Machine-learning the {Difference between {Original and {Translated {Text	NA
+juola_prototype_2006	article	Juola, Patrick and Sofko, John and Brennan, Patrick	A {Prototype for {Authorship {Attribution {Studies	NA
+heuser_quantitative_2012	techreport	Heuser, Ryan and Le-Khac, Long	A {Quantitative {Literary {History of 2,958 {Nineteenth-{Century {British {Novels: {The {Semantic {Cohort {Method	NA
+nadeau_survey_2007	article	Nadeau, David and Sekine, Satoshi	A survey of named entity recognition and classification	NA
+labbe_tool_2006	article	Labbé, Cyril and Labbé, Dominique	A {Tool for {Literary {Studies: {Intertextual {Distance and {Tree {Classification	NA
+waltman_unified_2010	article	Waltman, Ludo and van Eck, Nees Jan and Noyons, Ed C.M.	A unified approach to mapping and clustering of bibliometric networks	NA
+czmiel_adaquate_2003	phdthesis	Czmiel, Alexander	Adäquate {Markupsysteme für die digitale {Behandlung altägyptischer {Texte	NA
+van_zundert_alfalab_2009	inproceedings	van Zundert, J. and Zeldenrust, D. and Beaulieu, A.	Alfalab: {Construction and {Deconstruction of a {Digital {Humanities {Experiment	NA
+hakinson_interchange_2010	inproceedings	Hakinson, A. and Pugin, Laurent and Fujinaga, I.	An {Interchange {Format for {Optical {Music {Recognition {Applications	NA
+feinerer_introduction_2008	article	Feinerer, Ingo	An {Introduction to {Text {Mining in {R	NA
+friedlander_asking_2009	incollection	Friedlander, Amy	Asking {Questions and {Building a {Research {Agenda for {Digital {Scholarship	NA
+schumacher_big_2016	techreport	Schumacher, Mareike and Held, Marcus and Falk, Claudia and Pernes, Stefan	Big {Data in den {Geisteswissenschaften: {Konzept für eine {Lehr- und {Lernmittelsammlung	NA
+edmond_digital_2020	book	NA	Digital {Technology and the {Practices of {Humanities {Research	NA
+gnadt_faktoren_2017	techreport	Gnadt, Timo and Schmitt, Viola E. and Stiller, Juliane and Thoden, Klaus	Faktoren und {Kriterien für den {Impact von {DH-{Tools und {Infrastrukturen	NA
+klimpel_forschen_2015	techreport	Klimpel, Paul and Weitzmann, John H.	Forschen in der digitalen {Welt. {Juristische {Handreichung für die {Geisteswissenschaften	NA
+mccarty_humanities_2005	book	McCarty, Willard	Humanities computing	NA
+beer_interdisciplinary_2014	techreport	Beer, Nikolaos and Herold, Kristin and Kolbmann, Wibke and Kollatz, Thomas and Romanello, Matteo and Rose, Sebastian and Walkowski, Niels-Oliver	Interdisciplinary {Interoperability	NA
+collar_networks_2015	article	Collar, Anna and Coward, Fiona and Brughmans, Tom and Mills, Barbara J.	Networks in {Archaeology: {Phenomena {Abstraction {Representation	NA
+schoch_quantitative_2013	techreport	Schöch, Christof and Jannidis, Fotis	Quantitative {Text {Analysis for {Literary {History – {Report on a {DARIAH-{DE {Expert {Workshop	NA
+best_surface_nodate	article	Best, Stephen and Marcus, Sharon	Surface {Reading: {An {Introduction	NA
+aurast_big_2016	article	Aurast, Anna and Gradl, Tobias and Pernes, Stefan and Pielström, Steffen	Big {Data und {Smart {Data in den {Geisteswissenschaften	NA
+pugin_map_2007	inproceedings	Pugin, Laurent and Burgoyne, J. A. and Fujinaga, I.	{MAP {Adaptation to {Improve {Optical {Music {Recognition of {Early {Music {Documents {Using {Hidden {Markov {Models	NA
+haaf_measuring_2013	article	Haaf, Susanne and Wiegand, Frank and Geyken, Alexander	Measuring the {Correctness of {Double-{Keying: {Error {Classification and {Quality {Control in a {Large {Corpus of {TEI-{Annotated {Historical {Text	NA
+pugin_optical_2006	inproceedings	Pugin, Laurent	Optical {Music {Recognition of {Early {Typographic {Prints using {Hidden {Markov {Models	NA
+rebelo_optical_2012	article	Rebelo, Ana and Fujinaga, Ichiro and Paszkiewicz, Filipe and Marcal, Andre R. S. and Guedes, Carlos and Cardoso, Jamie S.	Optical music recognition: state-of-the-art and open issues	NA
+pugin_reducing_2007	inproceedings	Pugin, Laurent and Burgoyne, J. A. and Fujinaga, I.	Reducing {Costs for {Digitising {Early {Music with {Dynamic {Adaptation	NA
+nadeau_survey_2007-1	article	Nadeau, David and Sekine, Satoshi	A survey of named entity recognition and classification	NA
+czmiel_adaquate_2003-1	phdthesis	Czmiel, Alexander	Adäquate {Markupsysteme für die digitale {Behandlung altägyptischer {Texte	NA
+schrader_xml-datenformat_2007	phdthesis	Schräder, Gregor	Ein {XML-{Datenformat zur {Repräsentation kritischer {Musikedition unter besonderer {Berücksichtigung von {Neumennotation	NA
+kazama_exploiting_2007	inproceedings	Kazama, Jun'ichi and Torisawa, Kentaro	Exploiting {Wikipedia as {External {Knowledge for {Named {Entity {Recognition	NA
+galina_introduccion_2007	book	Galina, Isabel and Ordoñez, C.	Introducción a la edición digital	NA
+tjong_kim_sang_introduction_2003	inproceedings	Tjong Kim Sang, Erik F. and De Meulder, Fien	Introduction to the {CoNLL-2003 shared task: language-independent named entity recognition	NA
+stapelfeldt_islandora_2013	article	Stapelfeldt, Kirsta and Moses, Donald	Islandora and {TEI: {Current and {Emerging {Applications/{Approaches	NA
+gorz_kognitive_2007	article	Görz, Günther	Kognitive {Karten des {Mittelalters: {Digitale {Erschließung mittelalterlicher {Weltkarten.	NA
+kepper_musikedition_2011	book	Kepper, Johannes	Musikedition im {Zeichen neuer {Medien : historische {Entwicklung und gegenwärtige {Perspektiven musikalischer {Gesamtausgaben	NA
+waltman_unified_2010-1	article	Waltman, Ludo and van Eck, Nees Jan and Noyons, Ed C.M.	A unified approach to mapping and clustering of bibliometric networks	NA
+stewart_charles_2003	article	Stewart, Larry L.	Charles {Brockden {Brown: {Quantitative {Analysis and {Literary {Interpretation	NA
+schier_cid_1995	book	NA	{CID. {Computergestützte {Interpretationen von {Detektivromanen	NA
+jacomy_forceatlas2_2014	article	Jacomy, Mathieu and Venturini, Tommaso and Heymann, Sebastien and Bastian, Mathieu	{ForceAtlas2 a {Continuous {Graph {Layout {Algorithm for {Handy {Network {Visualization {Designed for the {Gephi {Software	NA
+leroux_notion_2012	article	Leroux, Jean	La notion de modèle en philosophie des sciences	NA
+gelman_lets_2002	article	Gelman, Andrew and Pascarica, Cristian and Dodhia, Rahul	Lets practice what we preach: {Turning tables into graphs	NA
+king_making_2000	article	King, Gary and Tomz, Michael	Making the {Most of {Statistical {Analyses: {Interpretation and {Presentation	NA
+noack_modularity_2009	article	Noack, Andreas	Modularity clustering is force-directed layout	NA
+shneiderman_eyes_1996	inproceedings	Shneiderman, Ben	The {Eyes {Have {It: {A {Task by {Data {Type {Taxonomy for {Information {Visualizations	NA
+mccarty_residue_2012	inproceedings	McCarty, Willard	The residue of uniqueness	NA
+card_structure_1997	inproceedings	Card, Stuart K. and Mackinlay, Jock	The {Structure of the {Information {Visualization {Design {Space	NA
+chaney_visualizing_2012	inproceedings	Chaney, Allison and Blei, David M.	Visualizing {Topic {Models	NA
+kelleher_changing_2011	techreport	Kelleher, Margaret and Hoogland, Eva	Changing {Publication {Practices in the {Humanities.	NA
+fitzpatrick_commentpress_2007	article	Fitzpatrick, Kathleen	{CommentPress: {New ({Social) {Structures for {New ({Networked) {Texts	NA
+noauthor_commission_2012	techreport	NA	Commission {Recommendation on access to and preservation of scientific information	NA
+de_santis_crossing_2019	book	De Santis, Annamaria and Rossi, Irene	Crossing {Experiences in {Digital {Epigraphy {From {Practice to {Discipline	NA
