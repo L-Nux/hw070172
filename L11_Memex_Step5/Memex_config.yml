@@ -1,0 +1,5 @@
+bib_all: TestLibrary.bib
+path_to_memex: /home/lisnux/Desktop/UniWien/WS2021/070172_UEMethodologicalCourse/hw070172/MEMEX_building/memex_sandbox/_data
+bibtex_keys: ./zotero_biblatex_keys.yml
+language_keys: ./bibtex_languages.yml
+path_to_tfidf: /home/lisnux/Desktop/UniWien/WS2021/070172_UEMethodologicalCourse/hw070172/MEMEX_building/memex_sandbox/results_tfidf
